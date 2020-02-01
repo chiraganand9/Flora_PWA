@@ -1,0 +1,43 @@
+{
+    "name": "Flora",
+    "short_name": "Flora",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#ae0f0f",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/images/flora72.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "/images/flora96.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "/images/flora128.png",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "/images/flora144.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "/images/flora152.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "/images/flora192.png",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "/images/flora384.png",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "/images/flora512.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
